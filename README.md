@@ -24,3 +24,4 @@ A Python-based LMS designed to manage students, teachers, and course enrollments
 
 ## 📊 Deployment
 The project is hosted on **GitHub Pages** (if using a GUI) or can be run locally via terminal.
+this project  is solely based on python 
