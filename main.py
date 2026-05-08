@@ -1,3 +1,4 @@
+# Student Learning Management System (LMS)
 import sys
 from core.models import Student, Teacher
 from core.manager import LMSManager
